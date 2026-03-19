@@ -7,7 +7,7 @@ namespace = "adamant"
 name = "PreventEchoScam"
 versionNumber = "1.0.0"
 description = "Prevents Echo scam by blocking both minibosses from spawning at room 3."
-websiteUrl = "https://github.com/maybe-adamant/h2-pack-PreventEchoScam"
+websiteUrl = "https://github.com/maybe-adamant/h2-modpack-PreventEchoScam"
 containsNsfwContent = false
 
 [package.dependencies]
