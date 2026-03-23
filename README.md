@@ -1,11 +1,11 @@
 # Prevent Echo Scam
 
-> Prevents a routing "scam" where two minibosses can spawn in the same location in the Fields of Mourning.
+> Prevents  "Echo scam" where two minibosses can spawn in the same location in the Fields of Mourning.
 
 ## Features
 
-- Modifies room requirements to prevent both the Narcissus and Echo miniboss encounters from being able to spawn at biome depth 3.
-- This prevents a scenario where the player is forced into an undesirable path, which is considered a "scam" by speedrunners.
+- Modifies room requirements to prevent fields of mourning from spawning miniboss encounters at biome depth 3.
+- This prevents a scenario where Echo door is not available.
 
 ## Installation
 
