@@ -53,7 +53,7 @@ public.definition = {
     tooltip  = "Prevents Echo scam by blocking both minibosses from spawning at room 3.",
     default  = false,
     dataMutation = true,
-    modpack = "h2-modpack",
+    modpack = "speedrun",
 }
 
 -- =============================================================================
